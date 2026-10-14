@@ -3,9 +3,8 @@
 ## 1. Thông tin chung & Mục tiêu
 
 * **Học phần:** Kiểm thử phần mềm / Kiểm thử hiệu năng (Performance Testing).
-* **Sinh viên thực hiện:** `[Họ và tên sinh viên]`
-* **Mã sinh viên (MSSV):** `[Mã số sinh viên]`
-* **Lớp:** `[Tên lớp]`
+* **Sinh viên thực hiện:** Vũ Đức Hiếu
+* **Mã sinh viên (MSSV):** 23010226
 * **Công cụ sử dụng:** [Apache JMeter 5.6.3](https://jmeter.apache.org/) (môi trường Java 21 LTS).
 * **Hệ thống mục tiêu kiểm thử:** Hệ thống REST API công khai [DummyJSON Products API](https://dummyjson.com/docs/products).
 * **Mục tiêu bài thực hành:**
